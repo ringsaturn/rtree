@@ -130,4 +130,3 @@ minimum x value.
 ## License
 
 rtree source code is available under the MIT License.
-
